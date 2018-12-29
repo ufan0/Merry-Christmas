@@ -2,6 +2,8 @@
 ---
 DEMO：https://ufan0.github.io/Merry-Christmas/
 
+<img src="./demo.png">
+
 RE：
 
 喜欢上一个护理系女孩子，苦无不会搭讪，昨儿专程去献血，以此搭讪.......
